@@ -1,0 +1,6 @@
+[submodule "Calcuroid1"]
+	path = Calcuroid1
+	url = https://github.com/climerman/calcuroid1.git
+[submodule "Calcuroid2"]
+	path = Calcuroid2
+	url = https://github.com/climerman/calcuroid2.git
